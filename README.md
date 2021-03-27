@@ -1,2 +1,2 @@
-# fullstackjstraining
-kumpulan hasil dokumentasi belajar
+# fullstack jstraining
+kumpulan hasil dokumentasi belajar Fullstack Java Script
